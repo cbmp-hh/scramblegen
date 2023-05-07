@@ -1,7 +1,7 @@
 import random as rnd
 import os
 
-print("Welcome to the first official realease of Python Rubik's cube scramble generator, v1.0 ")
+print("Welcome to the first official release of Python Rubik's cube scramble generator, v1.0 ")
 os.system("pause")
 print("\033c", end="")
 
